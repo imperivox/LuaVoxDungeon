@@ -13,7 +13,7 @@ local INITIAL_WALL_CHANCE = 0.40
 
 -- Game configuration
 local CONFIG = {
-    ENEMIES_PER_WAVE = 0,
+    ENEMIES_PER_WAVE = 5,
     ITEMS_PER_WAVE = 3,
     PLAYER_INITIAL_STATS = {
         hp = 100,
